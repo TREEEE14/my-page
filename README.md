@@ -1,5 +1,5 @@
 # 王楚玉 个人主页
 
-中山大学人工智能学院研究生，专注于推荐系统与深度学习研究。
+中山大学人工智能学院硕士研究生，专注于推荐算法领域。
 
-在线访问：[https://treeee14.github.io](https://treeee14.github.io)
+在线访问：[个人主页](https://treeee14.github.io/my-page/)
