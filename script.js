@@ -45,7 +45,7 @@ const observer = new IntersectionObserver((entries) => {
 
 // 观察所有需要动画的元素
 document.addEventListener('DOMContentLoaded', () => {
-    const animatedElements = document.querySelectorAll('.timeline-item, .experience-card, .skill-category');
+    const animatedElements = document.querySelectorAll('.timeline-item, .experience-card, .skill-category, .research-card, .project-card, .award-item, .sub-project');
     
     animatedElements.forEach(el => {
         el.style.opacity = '0';
